@@ -82,7 +82,6 @@ $ npm i --save-dev typescript @typescript-eslint/parser @typescript-eslint/eslin
 }
 ```
 
-Caution! `htmlacademy/react` and `htmlacademy/react-typescript` doesn't include `react-hooks/rules-of-hooks` and `react-hooks/exhaustive-deps` because in our courses we use CRA (Create React App) which includes these plugins out of box. Install them yourself if necessary.
 
 Caution! If you're wanting to use `toBeCalled` and similar matches in jest tests, you can use next option for `eslintConfig`:
 
