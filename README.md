@@ -9,7 +9,6 @@ npm install --save-dev eslint-config-htmlacademy
 
 Package requires `eslint`. You must install it manually.
 
-## Usage
 
 Once the `eslint-config-htmlacademy` package is installed, you can use it by specifying `htmlacademy` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
 
