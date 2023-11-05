@@ -2,7 +2,6 @@
 
 ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for the [HTML Academy](http://htmlacademy.ru) courses
 
-## Installation
 
 ```bash
 npm install --save-dev eslint-config-htmlacademy
