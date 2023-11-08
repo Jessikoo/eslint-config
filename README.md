@@ -1,4 +1,4 @@
-# eslint-config-htmlacademy
+# eslint-config
 
 ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for the [HTML Academy](http://htmlacademy.ru) courses
 
