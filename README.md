@@ -97,7 +97,7 @@ Caution! If you're wanting to use `toBeCalled` and similar matches in jest tests
 
 Why this is necessary, you can read on the [next page](https://github.com/jest-community/eslint-plugin-jest/blob/main/docs/rules/unbound-method.md).
 
-For validating **Node** project use `node` version (`htmlacademy/node` includes `htmlacademy/vanilla`, `plugin:@typescript-eslint/recommended` and `plugin:node/recommended`).
+
 
 Before using `eslint-config-htmlacademy` make sure you have TypeScript and `@typescript-eslint/parser` installed:
 
