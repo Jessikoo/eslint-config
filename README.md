@@ -31,7 +31,6 @@ For validating **Vanilla JS** project use `vanilla` version:
 }
 ```
 
-For validating **React** project use `react` version (`htmlacademy/react` includes `react/recommended`):
 
 ```json
 {
@@ -50,7 +49,6 @@ For validating **React** project use `react` version (`htmlacademy/react` includ
 }
 ```
 
-For validating **React** project with TypeScript use `react-typescript` version (`htmlacademy/react-typescript` includes `react/recommended`, `@typescript-eslint/recommended` and `@typescript-eslint/recommended-requiring-type-checking`).
 
 Before using `eslint-config-htmlacademy` make sure you have TypeScript, `@typescript-eslint/parser`, `@typescript-eslint/eslint-plugin` installed:
 
